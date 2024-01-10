@@ -32,7 +32,7 @@ For **Ridge** key preditive features were
 <br>- **Neighborhood_MeadowV**
 <br>- **YearRemodAdd**
 
-For Lasso key predictive features were 
+For **Lasso** key predictive features were 
 <br> - **GrLivArea**
 <br> - **OverallQual_Excellent**
 <br> - **TotalBsmtSF**
